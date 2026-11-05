@@ -16,7 +16,7 @@ mounted on the target PCB as single components during regular SMD assembly.
 | `20251010_MLCC_Stacking_PCB_Stencil_v2.PcbDoc` | Altium Designer layout of the stencil PCB |
 | `20251010_MLCC_Stacking_PCB_Stencil_v2.pdf` | Drawing of the stencil PCB with the cavity arrays |
 | `Gerber_MLCC_Stacking_PCB_Stencil_v2.zip` | Manufacturing data (profile with board cutouts, legend, mechanical layer) for ordering the stencil from any PCB service |
-| `LICENSE` | CERN-OHL-P-2.0 license text |
+| `LICENSE` | Apache License 2.0 |
 
 ## Stencil design
 
@@ -71,7 +71,6 @@ Institute of Microelectronic Systems, Leibniz University Hannover, Germany
 
 ## License
 
-The design files are released under the CERN Open Hardware Licence Version 2,
-Permissive (CERN-OHL-P-2.0). See `LICENSE`.
+The design files are released under the Apache License 2.0. See `LICENSE`.
 
-SPDX-License-Identifier: CERN-OHL-P-2.0
+SPDX-License-Identifier: Apache-2.0
